@@ -1,6 +1,6 @@
-# Page Title
+# Daniel Sevilla
 
-A short introduction for the top of your main page
+I like to hangout with my friends and play soccer
 
 
-More content you want on your page
+I also like playing videgames
