@@ -1,8 +1,8 @@
 # -- Project information -----------------------------------------------------
 
-project = 'Site Title'
-copyright = '2022, Your name'
-author = 'Your Name'
+project = 'About Me'
+copyright = '2022, Daniel Sevilla'
+author = 'Daniel Sevilla'
 
 
 
@@ -49,7 +49,7 @@ with open ('info.yml','r') as f:
 
 
 html_theme_options = {
-  "github_url": "https://github.com/username/",
+  "github_url": "https://github.com/DanielS129/",
   "twitter_url": "https://twitter.com/username",
   "search_bar_text": "Search this site...",
   "navbar_end": ["search-field.html"],
