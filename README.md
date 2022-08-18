@@ -28,3 +28,25 @@ To run a live webserver that will auto-build and reload when you make changes, r
 ```shell
 nox -s docs-live
 ```
+
+## Download a repository in Git
+git clone
+
+## Stage a File in Git
+git add
+
+## Change Directory
+cd
+
+## Seeing Files (and Hidden Files)
+ls 
+ls -a 
+
+## Committing a File in Git
+git commit -m "[Title Name]"
+
+## Viewing Commits
+git push --set-upstream orgin [Title]
+
+## Exiting Terminal Text Editors
+exit
