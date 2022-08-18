@@ -39,7 +39,6 @@ git add
 cd
 
 ## Seeing Files (and Hidden Files)
-ls 
 ls -a 
 
 ## Committing a File in Git
